@@ -1,0 +1,3 @@
+model,accuracy,precision_weighted,recall_weighted,f1_weighted
+SVM (TF-IDF),0.7778,0.6049,0.7778,0.6806
+Naive Bayes (TF-IDF),0.2222,0.4048,0.2222,0.2006

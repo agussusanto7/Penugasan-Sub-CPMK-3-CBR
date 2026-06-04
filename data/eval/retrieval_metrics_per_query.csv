@@ -1,0 +1,11 @@
+query_id,retrieval_method,prediction_algorithm_context,precision_at_5,recall_at_5,f1_score_at_5
+Q001_PJK,tfidf,majority_vote,0.6,1.0,0.7499999999999999
+Q001_PJK,tfidf,weighted_similarity,0.6,1.0,0.7499999999999999
+Q002_PJK,tfidf,majority_vote,0.6,1.0,0.7499999999999999
+Q002_PJK,tfidf,weighted_similarity,0.6,1.0,0.7499999999999999
+Q003_PJK,tfidf,majority_vote,0.6,1.0,0.7499999999999999
+Q003_PJK,tfidf,weighted_similarity,0.6,1.0,0.7499999999999999
+Q004_PJK,tfidf,majority_vote,0.6,1.0,0.7499999999999999
+Q004_PJK,tfidf,weighted_similarity,0.6,1.0,0.7499999999999999
+Q005_PJK,tfidf,majority_vote,0.6,1.0,0.7499999999999999
+Q005_PJK,tfidf,weighted_similarity,0.6,1.0,0.7499999999999999

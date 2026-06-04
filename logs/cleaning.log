@@ -1,0 +1,230 @@
+2026-06-04 11:47:39 [INFO] ============================================================
+2026-06-04 11:47:39 [INFO] TAHAP 1: Membangun Case Base dari PDF Manual — MULAI
+2026-06-04 11:47:39 [INFO] ============================================================
+2026-06-04 11:47:39 [INFO] Folder PDF  : /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/PDFs_Putusan
+2026-06-04 11:47:39 [INFO] Output teks : /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/raw
+2026-06-04 11:47:39 [INFO] Output CSV  : /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/Scraper_CSVs
+2026-06-04 11:47:39 [INFO] [1/43] Memproses: putusan_1111_b_pk_pjk_2017_20250609100401.pdf
+2026-06-04 11:47:43 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:47:43 [INFO]   ✅ Teks disimpan ke: case_001_putusan_1111_b_pk_pjk_2017_2025060910040.txt
+2026-06-04 11:47:43 [INFO] [2/43] Memproses: putusan_1227_b_pk_pjk_2017_20250609095335.pdf
+2026-06-04 11:47:52 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:47:52 [INFO]   ✅ Teks disimpan ke: case_002_putusan_1227_b_pk_pjk_2017_2025060909533.txt
+2026-06-04 11:47:52 [INFO] [3/43] Memproses: putusan_1236_b_pk_pjk_2017_20250609100505.pdf
+2026-06-04 11:47:58 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:47:58 [INFO]   ✅ Teks disimpan ke: case_003_putusan_1236_b_pk_pjk_2017_2025060910050.txt
+2026-06-04 11:47:58 [INFO] [4/43] Memproses: putusan_1245_b_pk_pjk_2017_20250609100435.pdf
+2026-06-04 11:48:07 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:07 [INFO]   ✅ Teks disimpan ke: case_004_putusan_1245_b_pk_pjk_2017_2025060910043.txt
+2026-06-04 11:48:07 [INFO] [5/43] Memproses: putusan_1377_b_pk_pjk_2019_20250609100301.pdf
+2026-06-04 11:48:10 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:10 [INFO]   ✅ Teks disimpan ke: case_005_putusan_1377_b_pk_pjk_2019_2025060910030.txt
+2026-06-04 11:48:10 [INFO] [6/43] Memproses: putusan_1477_b_pk_pjk_2017_20250609100220.pdf
+2026-06-04 11:48:14 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:14 [INFO]   ✅ Teks disimpan ke: case_006_putusan_1477_b_pk_pjk_2017_2025060910022.txt
+2026-06-04 11:48:14 [INFO] [7/43] Memproses: putusan_1494_b_pk_pjk_2020_20250609095851.pdf
+2026-06-04 11:48:19 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:19 [INFO]   ✅ Teks disimpan ke: case_007_putusan_1494_b_pk_pjk_2020_2025060909585.txt
+2026-06-04 11:48:19 [INFO] [8/43] Memproses: putusan_1528_b_pk_pjk_2020_20250609100513.pdf
+2026-06-04 11:48:22 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:22 [INFO]   ✅ Teks disimpan ke: case_008_putusan_1528_b_pk_pjk_2020_2025060910051.txt
+2026-06-04 11:48:22 [INFO] [9/43] Memproses: putusan_1539_b_pk_pjk_2018_20250609095746.pdf
+2026-06-04 11:48:25 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:25 [INFO]   ✅ Teks disimpan ke: case_009_putusan_1539_b_pk_pjk_2018_2025060909574.txt
+2026-06-04 11:48:25 [INFO] [10/43] Memproses: putusan_1587_b_pk_pjk_2019_20250609095323.pdf
+2026-06-04 11:48:28 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:28 [INFO]   ✅ Teks disimpan ke: case_010_putusan_1587_b_pk_pjk_2019_2025060909532.txt
+2026-06-04 11:48:28 [INFO] [11/43] Memproses: putusan_158_b_pk_pjk_2017_20250609095800.pdf
+2026-06-04 11:48:33 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:33 [INFO]   ✅ Teks disimpan ke: case_011_putusan_158_b_pk_pjk_2017_20250609095800.txt
+2026-06-04 11:48:33 [INFO] [12/43] Memproses: putusan_1607_b_pk_pjk_2016_20250609095152.pdf
+2026-06-04 11:48:39 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:39 [INFO]   ✅ Teks disimpan ke: case_012_putusan_1607_b_pk_pjk_2016_2025060909515.txt
+2026-06-04 11:48:39 [INFO] [13/43] Memproses: putusan_1697_c_pk_pjk_2016_20250609100427.pdf
+2026-06-04 11:48:44 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:44 [INFO]   ✅ Teks disimpan ke: case_013_putusan_1697_c_pk_pjk_2016_2025060910042.txt
+2026-06-04 11:48:44 [INFO] [14/43] Memproses: putusan_1731_b_pk_pjk_2016_20250609100220.pdf
+2026-06-04 11:48:47 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:47 [INFO]   ✅ Teks disimpan ke: case_014_putusan_1731_b_pk_pjk_2016_2025060910022.txt
+2026-06-04 11:48:47 [INFO] [15/43] Memproses: putusan_1797_b_pk_pjk_2017_20250609100310.pdf
+2026-06-04 11:48:52 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:52 [INFO]   ✅ Teks disimpan ke: case_015_putusan_1797_b_pk_pjk_2017_2025060910031.txt
+2026-06-04 11:48:52 [INFO] [16/43] Memproses: putusan_1840_b_pk_pjk_2019_20250609095357.pdf
+2026-06-04 11:48:55 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:48:55 [INFO]   ✅ Teks disimpan ke: case_016_putusan_1840_b_pk_pjk_2019_2025060909535.txt
+2026-06-04 11:48:55 [INFO] [17/43] Memproses: putusan_186_b_pk_pjk_2017_20250609100413.pdf
+2026-06-04 11:49:05 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:05 [INFO]   ✅ Teks disimpan ke: case_017_putusan_186_b_pk_pjk_2017_20250609100413.txt
+2026-06-04 11:49:05 [INFO] [18/43] Memproses: putusan_1985_b_pk_pjk_2017_20250609100107.pdf
+2026-06-04 11:49:09 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:09 [INFO]   ✅ Teks disimpan ke: case_018_putusan_1985_b_pk_pjk_2017_2025060910010.txt
+2026-06-04 11:49:09 [INFO] [19/43] Memproses: putusan_2125_b_pk_pjk_2017_20250609095410.pdf
+2026-06-04 11:49:14 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:14 [INFO]   ✅ Teks disimpan ke: case_019_putusan_2125_b_pk_pjk_2017_2025060909541.txt
+2026-06-04 11:49:14 [INFO] [20/43] Memproses: putusan_2385_b_pk_pjk_2018_20250609095144.pdf
+2026-06-04 11:49:18 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:18 [INFO]   ✅ Teks disimpan ke: case_020_putusan_2385_b_pk_pjk_2018_2025060909514.txt
+2026-06-04 11:49:18 [INFO] [21/43] Memproses: putusan_2498_b_pk_pjk_2018_20250609100214.pdf
+2026-06-04 11:49:22 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:22 [INFO]   ✅ Teks disimpan ke: case_021_putusan_2498_b_pk_pjk_2018_2025060910021.txt
+2026-06-04 11:49:22 [INFO] [22/43] Memproses: putusan_2737_b_pk_pjk_2020_20250609095506.pdf
+2026-06-04 11:49:27 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:27 [INFO]   ✅ Teks disimpan ke: case_022_putusan_2737_b_pk_pjk_2020_2025060909550.txt
+2026-06-04 11:49:27 [INFO] [23/43] Memproses: putusan_2748_b_pk_pjk_2018_20250609095310.pdf
+2026-06-04 11:49:29 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:29 [INFO]   ✅ Teks disimpan ke: case_023_putusan_2748_b_pk_pjk_2018_2025060909531.txt
+2026-06-04 11:49:29 [INFO] [24/43] Memproses: putusan_2762_b_pk_pjk_2020_20250609100002.pdf
+2026-06-04 11:49:33 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:33 [INFO]   ✅ Teks disimpan ke: case_024_putusan_2762_b_pk_pjk_2020_2025060910000.txt
+2026-06-04 11:49:33 [INFO] [25/43] Memproses: putusan_2765_b_pk_pjk_2020_20250609095515.pdf
+2026-06-04 11:49:35 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:35 [INFO]   ✅ Teks disimpan ke: case_025_putusan_2765_b_pk_pjk_2020_2025060909551.txt
+2026-06-04 11:49:35 [INFO] [26/43] Memproses: putusan_2804_b_pk_pjk_2018_20250609095706.pdf
+2026-06-04 11:49:38 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:38 [INFO]   ✅ Teks disimpan ke: case_026_putusan_2804_b_pk_pjk_2018_2025060909570.txt
+2026-06-04 11:49:38 [INFO] [27/43] Memproses: putusan_2817_b_pk_pjk_2018_20250609095158.pdf
+2026-06-04 11:49:41 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:41 [INFO]   ✅ Teks disimpan ke: case_027_putusan_2817_b_pk_pjk_2018_2025060909515.txt
+2026-06-04 11:49:41 [INFO] [28/43] Memproses: putusan_3002_b_pk_pjk_2019_20250609095749.pdf
+2026-06-04 11:49:46 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:46 [INFO]   ✅ Teks disimpan ke: case_028_putusan_3002_b_pk_pjk_2019_2025060909574.txt
+2026-06-04 11:49:46 [INFO] [29/43] Memproses: putusan_322_b_pk_pjk_2017_20250609095417.pdf
+2026-06-04 11:49:51 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:51 [INFO]   ✅ Teks disimpan ke: case_029_putusan_322_b_pk_pjk_2017_20250609095417.txt
+2026-06-04 11:49:51 [INFO] [30/43] Memproses: putusan_3267_b_pk_pjk_2018_20250609095624.pdf
+2026-06-04 11:49:56 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:56 [INFO]   ✅ Teks disimpan ke: case_030_putusan_3267_b_pk_pjk_2018_2025060909562.txt
+2026-06-04 11:49:56 [INFO] [31/43] Memproses: putusan_328_b_pk_pjk_2018_20250609100122.pdf
+2026-06-04 11:49:59 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:49:59 [INFO]   ✅ Teks disimpan ke: case_031_putusan_328_b_pk_pjk_2018_20250609100122.txt
+2026-06-04 11:49:59 [INFO] [32/43] Memproses: putusan_3409_b_pk_pjk_2018_20250609100000.pdf
+2026-06-04 11:50:02 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:02 [INFO]   ✅ Teks disimpan ke: case_032_putusan_3409_b_pk_pjk_2018_2025060910000.txt
+2026-06-04 11:50:02 [INFO] [33/43] Memproses: putusan_351_b_pk_pjk_2017_20250609095902.pdf
+2026-06-04 11:50:07 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:07 [INFO]   ✅ Teks disimpan ke: case_033_putusan_351_b_pk_pjk_2017_20250609095902.txt
+2026-06-04 11:50:07 [INFO] [34/43] Memproses: putusan_37_b_pk_pjk_2017_20250609095535.pdf
+2026-06-04 11:50:13 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:13 [INFO]   ✅ Teks disimpan ke: case_034_putusan_37_b_pk_pjk_2017_20250609095535.txt
+2026-06-04 11:50:13 [INFO] [35/43] Memproses: putusan_4565_b_pk_pjk_2023_20250609095543.pdf
+2026-06-04 11:50:15 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:15 [INFO]   ✅ Teks disimpan ke: case_035_putusan_4565_b_pk_pjk_2023_2025060909554.txt
+2026-06-04 11:50:15 [INFO] [36/43] Memproses: putusan_475_b_pk_pjk_2018_20250609100037.pdf
+2026-06-04 11:50:19 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:19 [INFO]   ✅ Teks disimpan ke: case_036_putusan_475_b_pk_pjk_2018_20250609100037.txt
+2026-06-04 11:50:19 [INFO] [37/43] Memproses: putusan_518_b_pk_pjk_2017_20250609095134.pdf
+2026-06-04 11:50:23 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:23 [INFO]   ✅ Teks disimpan ke: case_037_putusan_518_b_pk_pjk_2017_20250609095134.txt
+2026-06-04 11:50:24 [INFO] [38/43] Memproses: putusan_579_b_pk_pjk_2017_20250609095547.pdf
+2026-06-04 11:50:28 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:28 [INFO]   ✅ Teks disimpan ke: case_038_putusan_579_b_pk_pjk_2017_20250609095547.txt
+2026-06-04 11:50:28 [INFO] [39/43] Memproses: putusan_624_b_pk_pjk_2015_20250609100055.pdf
+2026-06-04 11:50:36 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:36 [INFO]   ✅ Teks disimpan ke: case_039_putusan_624_b_pk_pjk_2015_20250609100055.txt
+2026-06-04 11:50:36 [INFO] [40/43] Memproses: putusan_658_b_pk_pjk_2017_20250609095441.pdf
+2026-06-04 11:50:41 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:41 [INFO]   ✅ Teks disimpan ke: case_040_putusan_658_b_pk_pjk_2017_20250609095441.txt
+2026-06-04 11:50:41 [INFO] [41/43] Memproses: putusan_721_b_pk_pjk_2017_20250609095210.pdf
+2026-06-04 11:50:47 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:47 [INFO]   ✅ Teks disimpan ke: case_041_putusan_721_b_pk_pjk_2017_20250609095210.txt
+2026-06-04 11:50:47 [INFO] [42/43] Memproses: putusan_737_b_pk_pjk_2020_20250609095317.pdf
+2026-06-04 11:50:50 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:50 [INFO]   ✅ Teks disimpan ke: case_042_putusan_737_b_pk_pjk_2020_20250609095317.txt
+2026-06-04 11:50:50 [INFO] [43/43] Memproses: putusan_749_b_pk_pjk_2015_20250609095639.pdf
+2026-06-04 11:50:55 [INFO] Performed basic text cleaning (MA disclaimers, whitespace).
+2026-06-04 11:50:55 [INFO]   ✅ Teks disimpan ke: case_043_putusan_749_b_pk_pjk_2015_20250609095639.txt
+2026-06-04 11:50:55 [INFO] CSV disimpan: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/Scraper_CSVs/putusan_ma_Pajak_2026-06-04.csv. Total dokumen: 43
+2026-06-04 11:50:55 [INFO] TAHAP 1: Membangun Case Base dari PDF Manual — SELESAI
+2026-06-04 11:51:32 [INFO] ============================================================
+2026-06-04 11:51:32 [INFO] TAHAP 2: Case Representation — MULAI
+2026-06-04 11:51:32 [INFO] ============================================================
+2026-06-04 11:51:32 [INFO] [Tahap 2.1] Loading Data dari CSV dan raw text files...
+2026-06-04 11:51:32 [INFO] [Tahap 2.1] Loaded 43 records dari CSV.
+2026-06-04 11:51:32 [INFO] [Tahap 2.1] Full text loaded ke DataFrame untuk 43 kasus.
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Extracting/Refining Metadata & Text Features...
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_001
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_002
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_003
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_004
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_005
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_006
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_007
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_008
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_009
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_010
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_011
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_012
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_013
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_014
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_015
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_016
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_017
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_018
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_019
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_020
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_021
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_022
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_023
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_024
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_025
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_026
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_027
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_028
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_029
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_030
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_031
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_032
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_033
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_034
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_035
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_036
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_037
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_038
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_039
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_040
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_041
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_042
+2026-06-04 11:51:32 [INFO] [Tahap 2.2] Processing case_id: case_043
+2026-06-04 11:51:32 [INFO] [Tahap 2.3] Performing Feature Engineering (word counts, BoW, QA-pairs)...
+2026-06-04 11:51:34 [INFO] [Tahap 2.3] Word counts berhasil dihitung.
+2026-06-04 11:51:34 [INFO] [Tahap 2.4] Preparing and Saving Processed Data...
+2026-06-04 11:51:34 [INFO] [Tahap 2.3.5] Membuat kolom amar_kategori...
+2026-06-04 11:51:34 [INFO] [Tahap 2.4] Processed CSV disimpan ke: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/processed/cases_processed.csv
+2026-06-04 11:51:34 [INFO] [Tahap 2.4] Processed JSON disimpan ke: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/processed/cases_processed.json
+2026-06-04 11:51:34 [INFO] [Tahap 2.4] Processed XLSX disimpan ke: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/processed/cases_processed.xlsx
+2026-06-04 11:51:34 [INFO] [Tahap 2] Shape final DataFrame: (43, 25)
+2026-06-04 11:51:34 [INFO] TAHAP 2: Case Representation — SELESAI
+2026-06-04 11:55:22 [INFO] ============================================================
+2026-06-04 11:55:22 [INFO] TAHAP 3: Case Retrieval — MULAI
+2026-06-04 11:55:22 [INFO] ============================================================
+2026-06-04 11:55:29 [INFO] [Tahap 3.1] Fitting TF-IDF dan BERT vector models...
+2026-06-04 11:55:30 [INFO] [Tahap 3.1] TF-IDF shape: (43, 217)
+2026-06-04 11:55:30 [INFO] [Tahap 3.1] BERT embeddings shape: (43, 768)
+2026-06-04 11:55:30 [INFO] [Tahap 3.2] Splitting Data Train/Test 80:20...
+2026-06-04 11:55:30 [INFO] [Tahap 3.2] Train: 34 kasus, Test: 9 kasus
+2026-06-04 11:55:30 [INFO] [Tahap 3.3] Training SVM & Naive Bayes pada TF-IDF...
+2026-06-04 11:55:31 [INFO] [Tahap 3.3] SVM & Naive Bayes training selesai.
+2026-06-04 11:55:31 [INFO] [Tahap 3.4] Membuat dan menyimpan queries.json...
+2026-06-04 11:55:31 [INFO] [Tahap 3.4] queries.json disimpan: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/eval/queries.json
+2026-06-04 11:55:31 [INFO] TAHAP 3: Case Retrieval — SELESAI
+2026-06-04 11:56:17 [INFO] ============================================================
+2026-06-04 11:56:17 [INFO] TAHAP 4: Solution Reuse — MULAI
+2026-06-04 11:56:17 [INFO] ============================================================
+2026-06-04 11:56:24 [INFO] [Tahap 4] Loading data dan models...
+2026-06-04 11:56:24 [INFO] [Tahap 4] Loaded processed data: (43, 25)
+2026-06-04 11:56:24 [INFO] [Tahap 4] TF-IDF fitting complete. Shape: (43, 249)
+2026-06-04 11:56:30 [INFO] [Tahap 4] BERT embeddings complete. Shape: (43, 768)
+2026-06-04 11:56:30 [INFO] [Tahap 4] Menjalankan prediction demo...
+2026-06-04 11:56:30 [INFO] [Tahap 4] Predictions disimpan ke: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/results/predictions.csv
+2026-06-04 11:56:30 [INFO] TAHAP 4: Solution Reuse — SELESAI
+2026-06-04 11:57:28 [INFO] ============================================================
+2026-06-04 11:57:28 [INFO] TAHAP 5: Model Evaluation — MULAI
+2026-06-04 11:57:28 [INFO] ============================================================
+2026-06-04 11:57:33 [INFO] [Tahap 5] Loading data untuk evaluasi...
+2026-06-04 11:57:33 [INFO] [Tahap 5] Semua data evaluasi berhasil dimuat.
+2026-06-04 11:57:33 [INFO] [Tahap 5.a] Evaluating Retrieval Performance...
+2026-06-04 11:57:33 [INFO] [Tahap 5.a] Per-query retrieval metrics disimpan: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/eval/retrieval_metrics_per_query.csv
+2026-06-04 11:57:33 [INFO] [Tahap 5.a] Average retrieval metrics disimpan: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/eval/retrieval_metrics.csv
+2026-06-04 11:57:33 [INFO] [Tahap 5.b] Evaluating Prediction Performance...
+2026-06-04 11:57:33 [INFO] [Tahap 5.b] Prediction metrics disimpan: /content/drive/MyDrive/Penalaran Komputer/Penugasan_Sub_CPMK_3/CBR8/data/eval/prediction_metrics.csv
+2026-06-04 11:57:34 [INFO] TAHAP 5: Model Evaluation — SELESAI

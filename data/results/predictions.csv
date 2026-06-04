@@ -1,0 +1,11 @@
+query_id,query_text_preview,retrieval_method,prediction_algorithm,predicted_solution,top_5_case_ids
+Q001_PJK,Sengketa Pajak Pertambahan Nilai (PPN) atas koreksi penyerahan ekspor karena adanya transaksi dengan...,tfidf,majority_vote,Menolak permohonan,"case_017, case_006, case_014, case_013, case_011"
+Q001_PJK,Sengketa Pajak Pertambahan Nilai (PPN) atas koreksi penyerahan ekspor karena adanya transaksi dengan...,tfidf,weighted_similarity,Menolak permohonan,"case_017, case_006, case_014, case_013, case_011"
+Q002_PJK,Koreksi Pajak Masukan pada perusahaan perkebunan kelapa sawit terpadu yang menghasilkan Tandan Buah ...,tfidf,majority_vote,Menolak permohonan,"case_002, case_003, case_012, case_029, case_039"
+Q002_PJK,Koreksi Pajak Masukan pada perusahaan perkebunan kelapa sawit terpadu yang menghasilkan Tandan Buah ...,tfidf,weighted_similarity,Menolak permohonan,"case_002, case_003, case_012, case_029, case_039"
+Q003_PJK,Koreksi DPP PPN berdasarkan ekualisasi antara peredaran usaha dengan penerimaan uang pada rekening k...,tfidf,majority_vote,Menolak permohonan,"case_006, case_019, case_040, case_017, case_013"
+Q003_PJK,Koreksi DPP PPN berdasarkan ekualisasi antara peredaran usaha dengan penerimaan uang pada rekening k...,tfidf,weighted_similarity,Menolak permohonan,"case_006, case_019, case_040, case_017, case_013"
+Q004_PJK,Sengketa pemungutan PPh Pasal 22 atas pembelian bahan baku untuk keperluan industri dari pedagang pe...,tfidf,majority_vote,Mengabulkan seluruhnya,"case_013, case_014, case_033, case_040, case_029"
+Q004_PJK,Sengketa pemungutan PPh Pasal 22 atas pembelian bahan baku untuk keperluan industri dari pedagang pe...,tfidf,weighted_similarity,Menolak permohonan,"case_013, case_014, case_033, case_040, case_029"
+Q005_PJK,Pengenaan PPN atas pendapatan non air seperti biaya pemasangan sambungan baru pada Perusahaan Air Mi...,tfidf,majority_vote,Mengabulkan seluruhnya,"case_017, case_013, case_043, case_006, case_039"
+Q005_PJK,Pengenaan PPN atas pendapatan non air seperti biaya pemasangan sambungan baru pada Perusahaan Air Mi...,tfidf,weighted_similarity,Mengabulkan seluruhnya,"case_017, case_013, case_043, case_006, case_039"

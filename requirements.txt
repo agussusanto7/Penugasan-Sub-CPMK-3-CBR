@@ -1,0 +1,12 @@
+pandas
+pdfminer.six
+openpyxl
+nltk
+transformers
+sentence-transformers
+scikit-learn
+torch
+numpy
+matplotlib
+seaborn
+jupyter

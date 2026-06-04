@@ -1,0 +1,152 @@
+[
+    {
+        "query_id": "Q001_PJK",
+        "query_text": "Sengketa Pajak Pertambahan Nilai (PPN) atas koreksi penyerahan ekspor karena adanya transaksi dengan pihak afiliasi",
+        "ground_truth_ids": [
+            "case_017",
+            "case_006",
+            "case_014"
+        ],
+        "gt_similarity_scores": [
+            0.264,
+            0.2453,
+            0.2141
+        ],
+        "ground_truth_solution": "Menolak permohonan"
+    },
+    {
+        "query_id": "Q002_PJK",
+        "query_text": "Koreksi Pajak Masukan pada perusahaan perkebunan kelapa sawit terpadu yang menghasilkan Tandan Buah Segar (TBS) untuk diolah sendiri menjadi CPO",
+        "ground_truth_ids": [
+            "case_002",
+            "case_012",
+            "case_003"
+        ],
+        "gt_similarity_scores": [
+            0.4506,
+            0.2188,
+            0.2088
+        ],
+        "ground_truth_solution": "Menolak permohonan"
+    },
+    {
+        "query_id": "Q003_PJK",
+        "query_text": "Koreksi DPP PPN berdasarkan ekualisasi antara peredaran usaha dengan penerimaan uang pada rekening koran bank",
+        "ground_truth_ids": [
+            "case_006",
+            "case_019",
+            "case_040"
+        ],
+        "gt_similarity_scores": [
+            0.3686,
+            0.2734,
+            0.1464
+        ],
+        "ground_truth_solution": "Menolak permohonan"
+    },
+    {
+        "query_id": "Q004_PJK",
+        "query_text": "Sengketa pemungutan PPh Pasal 22 atas pembelian bahan baku untuk keperluan industri dari pedagang pengumpul",
+        "ground_truth_ids": [
+            "case_013",
+            "case_014",
+            "case_033"
+        ],
+        "gt_similarity_scores": [
+            0.1518,
+            0.148,
+            0.1408
+        ],
+        "ground_truth_solution": "Mengabulkan seluruhnya"
+    },
+    {
+        "query_id": "Q005_PJK",
+        "query_text": "Pengenaan PPN atas pendapatan non air seperti biaya pemasangan sambungan baru pada Perusahaan Air Minum (PDAM)",
+        "ground_truth_ids": [
+            "case_013",
+            "case_017",
+            "case_043"
+        ],
+        "gt_similarity_scores": [
+            0.1563,
+            0.1282,
+            0.118
+        ],
+        "ground_truth_solution": "Mengabulkan seluruhnya"
+    },
+    {
+        "query_id": "Q006_PJK",
+        "query_text": "Sengketa tarif PPh Pasal 26 atas pembayaran bunga ke luar negeri terkait penerapan Perjanjian Penghindaran Pajak Berganda (P3B)",
+        "ground_truth_ids": [
+            "case_029",
+            "case_041",
+            "case_013"
+        ],
+        "gt_similarity_scores": [
+            0.2515,
+            0.2182,
+            0.1774
+        ],
+        "ground_truth_solution": "Mengabulkan seluruhnya"
+    },
+    {
+        "query_id": "Q007_PJK",
+        "query_text": "Sengketa pengkreditan Pajak Masukan karena hasil konfirmasi dari lawan transaksi dinyatakan tidak ada oleh kantor pajak",
+        "ground_truth_ids": [
+            "case_002",
+            "case_029",
+            "case_013"
+        ],
+        "gt_similarity_scores": [
+            0.4962,
+            0.4368,
+            0.3087
+        ],
+        "ground_truth_solution": "Menolak permohonan"
+    },
+    {
+        "query_id": "Q008_PJK",
+        "query_text": "Sengketa koreksi biaya bunga pinjaman karena dianggap bukan biaya fiskal oleh pemeriksa pajak dalam penghitungan PPh Badan",
+        "ground_truth_ids": [
+            "case_013",
+            "case_033",
+            "case_029"
+        ],
+        "gt_similarity_scores": [
+            0.4194,
+            0.3891,
+            0.3794
+        ],
+        "ground_truth_solution": "Mengabulkan seluruhnya"
+    },
+    {
+        "query_id": "Q009_PJK",
+        "query_text": "Sengketa Pajak Pertambahan Nilai atas jasa konstruksi yang dikerjakan oleh kontraktor dalam proyek pembangunan fasilitas industri",
+        "ground_truth_ids": [
+            "case_017",
+            "case_006",
+            "case_011"
+        ],
+        "gt_similarity_scores": [
+            0.2119,
+            0.1944,
+            0.1654
+        ],
+        "ground_truth_solution": "Menolak permohonan"
+    },
+    {
+        "query_id": "Q010_PJK",
+        "query_text": "Koreksi harga pokok penjualan dan persediaan akhir yang menyebabkan perbedaan penghasilan kena pajak antara wajib pajak dan fiskus",
+        "ground_truth_ids": [
+            "case_029",
+            "case_002",
+            "case_017"
+        ],
+        "gt_similarity_scores": [
+            0.3243,
+            0.3123,
+            0.3065
+        ],
+        "ground_truth_solution": "Mengabulkan seluruhnya"
+    }
+]
