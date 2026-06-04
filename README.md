@@ -12,13 +12,44 @@ README.md       # Dokumentasi petunjuk instalasi dan eksekusi
 requirements.txt# Daftar dependencies yang dibutuhkan
 ```
 
-## Prasyarat & Instalasi
-1. Pastikan Anda telah menginstal Python (disarankan versi 3.8 atau lebih baru).
-2. Clone repository ini atau unduh ke direktori lokal Anda.
-3. Instal semua dependencies melalui pip:
-   ```bash
-   pip install -r requirements.txt
-   ```
+## Cara Menjalankan
+Untuk menjalankan proyek ini, ikuti langkah-langkah berikut:
+
+### Clone Repository
+```bash
+git clone [URL_REPOSITORY_ANDA]
+cd [NAMA_FOLDER_REPOSITORY]
+```
+
+### Siapkan Virtual Environment (Direkomendasikan)
+```bash
+python -m venv venv
+source venv/bin/activate  # Pada Windows gunakan `venv\Scripts\activate`
+```
+
+### Install Dependencies
+Pastikan Anda memiliki Python 3.x. Install semua library yang dibutuhkan menggunakan file `requirements.txt`.
+```bash
+pip install -r requirements.txt
+```
+*Catatan: Library `torch` dan `transformers` mungkin memerlukan waktu untuk diunduh.*
+
+### Struktur Folder Google Drive
+Kode ini dirancang untuk bekerja dengan Google Drive. Buatlah struktur folder berikut di dalam Google Drive Anda dan sesuaikan path `BASE_DRIVE_PATH` di dalam setiap notebook jika perlu.
+
+```text
+/MyDrive/
+└── CBR_Project_Penalaran_Komputer/
+    ├── data/
+    │   ├── raw/
+    │   ├── processed/
+    │   ├── eval/
+    │   └── results/
+    ├── logs/
+    ├── PDFs_Putusan/
+    ├── Scraper_CSVs/
+    └── notebooks/  (tempat Anda menyimpan file .ipynb)
+```
 
 ## Cara Menjalankan Pipeline End-to-End
 Terdapat dua opsi untuk menjalankan pipeline CBR ini: Anda dapat menjalankannya sekaligus atau per tahap.
