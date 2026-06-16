@@ -2,9 +2,13 @@
 
 Repositori ini memuat implementasi Sistem Case-Based Reasoning (CBR) untuk mendukung analisis putusan pengadilan di bidang pajak, merujuk pada siklus CBR. Proyek ini disusun untuk memenuhi Penugasan Sub CPMK-3 Mata Kuliah Penalaran Komputer.
 
+
+## Kelas
+Kelas Penalaran Komputer A — diampu oleh Ir. Galih Wasis Wicaksono, S.Kom., M.Cs.
+
 ## Nama Kelompok
 1. Agus Susanto (202310370311373)
-2. Boby Yohansyah (202310370311373)
+2. Boby Yohansyah (202310370311374)
 
 ## Struktur Direktori
 ```text
