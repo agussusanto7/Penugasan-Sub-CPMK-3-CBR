@@ -4,7 +4,7 @@ Repositori ini memuat implementasi Sistem Case-Based Reasoning (CBR) untuk mendu
 
 
 ## Kelas
-Kelas Penalaran Komputer A — diampu oleh Ir. Galih Wasis Wicaksono, S.Kom., M.Cs.
+Kelas Penalaran Komputer A — diampu oleh [Ir. Galih Wasis Wicaksono, S.Kom., M.Cs.](https://sinta.kemdiktisaintek.go.id/authors/profile/159970)
 
 ## Nama Kelompok
 1. Agus Susanto (202310370311373)
